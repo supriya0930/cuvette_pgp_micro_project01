@@ -1,2 +1,2 @@
 # cuvette_pgp_micro_project01
-Micro Project 01- HTML, CSS, JS
+Cuvette PGP OCT 23 Batch_Micro Project 01- HTML, CSS
